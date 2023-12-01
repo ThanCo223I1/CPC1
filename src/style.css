@@ -1,0 +1,16 @@
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #c8ced3;
+    border-radius: 0.25rem;
+}
+.custom-card {
+    border: 2px solid red;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

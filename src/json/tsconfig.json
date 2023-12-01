@@ -1,0 +1,342 @@
+
+{
+    "PaymentMethodInfo": {
+        "Cash": 226134669.0,
+        "Card": 12578024.0,
+        "VNPay": 116272446.0,
+        "CK": 0.0
+    },
+    "TopProductSalesLst": [
+        {
+            "ProductID": "TP03780",
+            "ProductName": "Premical softcap L60",
+            "Amount": 6656000.000
+        },
+        {
+            "ProductID": "TP05944",
+            "ProductName": "Diasyl Softcap L60",
+            "Amount": 5364000.000
+        },
+        {
+            "ProductID": "TB06019",
+            "ProductName": "Lăn khử mùi Conadin roll-on 15ml",
+            "Amount": 5338000.000
+        },
+        {
+            "ProductID": "TH01527",
+            "ProductName": "Augmentin 1g Tab 875/125mg H2x7",
+            "Amount": 4799800.000
+        },
+        {
+            "ProductID": "TH00893",
+            "ProductName": "Progermila Sol 5ml H4x5",
+            "Amount": 4668000.000
+        },
+        {
+            "ProductID": "TH00386",
+            "ProductName": "Crestor Tab 10mg H2x14",
+            "Amount": 4620000.000
+        },
+        {
+            "ProductID": "TP02142",
+            "ProductName": "Finelus DC Sus H10",
+            "Amount": 4368000.000
+        },
+        {
+            "ProductID": "TH02944",
+            "ProductName": "Ketosteril Tab H5x20",
+            "Amount": 4290000.000
+        },
+        {
+            "ProductID": "TH00548",
+            "ProductName": "Fogyma Sol 50mg 10ml H4x5",
+            "Amount": 3232500.000
+        },
+        {
+            "ProductID": "TP00070",
+            "ProductName": "Zentokid Sol 10ml H2x5",
+            "Amount": 3213000.000
+        }
+    ],
+    "SalesDayLst": [
+        {
+            "Day": "2023-11-01 00:00:00",
+            "AM": 4782530.0,
+            "PM": 8149830.0
+        },
+        {
+            "Day": "2023-11-02 00:00:00",
+            "AM": 3117120.0,
+            "PM": 13372240.0
+        },
+        {
+            "Day": "2023-11-03 00:00:00",
+            "AM": 3016240.0,
+            "PM": 5826100.0
+        },
+        {
+            "Day": "2023-11-04 00:00:00",
+            "AM": 4247000.0,
+            "PM": 4271200.0
+        },
+        {
+            "Day": "2023-11-05 00:00:00",
+            "AM": 3187400.0,
+            "PM": 2454100.0
+        },
+        {
+            "Day": "2023-11-06 00:00:00",
+            "AM": 4980000.0,
+            "PM": 6667050.0
+        },
+        {
+            "Day": "2023-11-07 00:00:00",
+            "AM": 4050700.0,
+            "PM": 6370250.0
+        },
+        {
+            "Day": "2023-11-08 00:00:00",
+            "AM": 2482360.0,
+            "PM": 8320500.0
+        },
+        {
+            "Day": "2023-11-09 00:00:00",
+            "AM": 2378280.0,
+            "PM": 9853720.0
+        },
+        {
+            "Day": "2023-11-10 00:00:00",
+            "AM": 3415108.0,
+            "PM": 6995476.0
+        },
+        {
+            "Day": "2023-11-11 00:00:00",
+            "AM": 4564570.0,
+            "PM": 5018500.0
+        },
+        {
+            "Day": "2023-11-12 00:00:00",
+            "AM": 2998600.0,
+            "PM": 2027400.0
+        },
+        {
+            "Day": "2023-11-13 00:00:00",
+            "AM": 4673800.0,
+            "PM": 7765626.0
+        },
+        {
+            "Day": "2023-11-14 00:00:00",
+            "AM": 5195700.0,
+            "PM": 10387064.0
+        },
+        {
+            "Day": "2023-11-15 00:00:00",
+            "AM": 5434700.0,
+            "PM": 10559872.0
+        },
+        {
+            "Day": "2023-11-16 00:00:00",
+            "AM": 4385700.0,
+            "PM": 6954560.0
+        },
+        {
+            "Day": "2023-11-17 00:00:00",
+            "AM": 6669300.0,
+            "PM": 8452400.0
+        },
+        {
+            "Day": "2023-11-18 00:00:00",
+            "AM": 2985500.0,
+            "PM": 8933807.0
+        },
+        {
+            "Day": "2023-11-19 00:00:00",
+            "AM": 2799420.0,
+            "PM": 5376420.0
+        },
+        {
+            "Day": "2023-11-20 00:00:00",
+            "AM": 6542956.0,
+            "PM": 8958620.0
+        },
+        {
+            "Day": "2023-11-21 00:00:00",
+            "AM": 2905520.0,
+            "PM": 8343520.0
+        },
+        {
+            "Day": "2023-11-22 00:00:00",
+            "AM": 7864950.0,
+            "PM": 8453210.0
+        },
+        {
+            "Day": "2023-11-23 00:00:00",
+            "AM": 5437800.0,
+            "PM": 11362520.0
+        },
+        {
+            "Day": "2023-11-24 00:00:00",
+            "AM": 3067120.0,
+            "PM": 7470600.0
+        },
+        {
+            "Day": "2023-11-25 00:00:00",
+            "AM": 4763240.0,
+            "PM": 7656300.0
+        },
+        {
+            "Day": "2023-11-26 00:00:00",
+            "AM": 2672770.0,
+            "PM": 4357880.0
+        },
+        {
+            "Day": "2023-11-27 00:00:00",
+            "AM": 4365700.0,
+            "PM": 10475800.0
+        },
+        {
+            "Day": "2023-11-28 00:00:00",
+            "AM": 7698600.0,
+            "PM": 6513800.0
+        },
+        {
+            "Day": "2023-11-29 00:00:00",
+            "AM": 3788840.0,
+            "PM": 8048610.0
+        },
+        {
+            "Day": "2023-11-30 00:00:00",
+            "AM": 3196340.0,
+            "PM": 7920300.0
+        }
+    ],
+    "CustomerSalesLst": [
+        {
+            "CustomerContact": "0977070892",
+            "CustomerName": "Chị Thùy",
+            "Point": 92,
+            "QuantityBill": 22,
+            "Amount": 9213500.0
+        },
+        {
+            "CustomerContact": "0976595331",
+            "CustomerName": "Chị Thúy Liễu",
+            "Point": 57,
+            "QuantityBill": 16,
+            "Amount": 5745900.0
+        },
+        {
+            "CustomerContact": "0989301180",
+            "CustomerName": "Chị Hạnh",
+            "Point": 49,
+            "QuantityBill": 18,
+            "Amount": 4929000.0
+        },
+        {
+            "CustomerContact": "0348543799",
+            "CustomerName": "Bùi Thị Trâm",
+            "Point": 45,
+            "QuantityBill": 11,
+            "Amount": 4573000.0
+        },
+        {
+            "CustomerContact": "0984186866",
+            "CustomerName": "Chị Ngọc Linh Linh",
+            "Point": 43,
+            "QuantityBill": 3,
+            "Amount": 4340000.0
+        },
+        {
+            "CustomerContact": "0378188362",
+            "CustomerName": "Chị Trang",
+            "Point": 38,
+            "QuantityBill": 16,
+            "Amount": 3832480.0
+        },
+        {
+            "CustomerContact": "0336296402",
+            "CustomerName": "Anh Tiệp",
+            "Point": 33,
+            "QuantityBill": 3,
+            "Amount": 3371000.0
+        },
+        {
+            "CustomerContact": "0945426889",
+            "CustomerName": "Em Linh",
+            "Point": 32,
+            "QuantityBill": 8,
+            "Amount": 3281250.0
+        },
+        {
+            "CustomerContact": "0948025319",
+            "CustomerName": "Chị Hoa",
+            "Point": 28,
+            "QuantityBill": 4,
+            "Amount": 2841500.0
+        },
+        {
+            "CustomerContact": "0389996354",
+            "CustomerName": "Chị Yến",
+            "Point": 24,
+            "QuantityBill": 10,
+            "Amount": 2499500.0
+        }
+    ],
+    "RateCustomerInfo": {
+        "RateName": 82.6845637583892,
+        "RatePhone": 82.6845637583892,
+        "RateAddress": 48.0984340044742,
+        "RateAge": 0.0000000000000,
+        "RateDiagnose": 0.2237136465324
+    },
+    "CustomerNewLst": [
+        {
+            "ShopCode": "SHOP0001",
+            "SalesID": 1474,
+            "QuantityCus": 313,
+            "QuantityCusNew": 88,
+            "EmployeeName": "Bùi Thị Hồng Nhung",
+            "EmployeeCode": "UP000437"
+        },
+        {
+            "ShopCode": "SHOP0001",
+            "SalesID": 647,
+            "QuantityCus": 411,
+            "QuantityCusNew": 114,
+            "EmployeeName": "Trần Minh Trang ",
+            "EmployeeCode": "UP000201"
+        },
+        {
+            "ShopCode": "SHOP0001",
+            "SalesID": 704,
+            "QuantityCus": 440,
+            "QuantityCusNew": 143,
+            "EmployeeName": "Vương Ngọc Anh",
+            "EmployeeCode": "UP000214"
+        },
+        {
+            "ShopCode": "SHOP0001",
+            "SalesID": 9,
+            "QuantityCus": 308,
+            "QuantityCusNew": 77,
+            "EmployeeName": "Hoàng Thị Bích Hạnh",
+            "EmployeeCode": "UP000006"
+        },
+        {
+            "ShopCode": "SHOP0001",
+            "SalesID": 0,
+            "QuantityCus": 1167,
+            "QuantityCusNew": 394,
+            "EmployeeName": "Tất cả không tính lặp",
+            "EmployeeCode": "SHOP0001"
+        },
+        {
+            "ShopCode": "SHOP0001",
+            "SalesID": 0,
+            "QuantityCus": 1472,
+            "QuantityCusNew": 422,
+            "EmployeeName": "Tất cả có tính lặp",
+            "EmployeeCode": "SHOP0001"
+        }
+    ]
+}
